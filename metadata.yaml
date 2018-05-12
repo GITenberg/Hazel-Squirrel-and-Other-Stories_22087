@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2097
     wikipedia: http://www.gutenberg.org/browse/authors/h#a40974
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22087#Hazel-Squirrel-and-Other-Stories
 gutenberg_issued: '2007-07-16'
 gutenberg_type: Text
 identifiers:
